@@ -1,0 +1,9 @@
+"Fundamentals of SQL
+Manipulating Data by Using DML Statements"	
+"Storing Data in a Table
+Updating Data in a Table
+Deleting Data from a Table
+Retrieving Specific Attributes
+Retrieving Selected Rows
+Filtering Data:WHERE Clauses
+Filtering Data:IN,DISTINCT,AND,OR,IN,BETWEEN,LIKE,Column & table aliases"
