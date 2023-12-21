@@ -1,0 +1,22 @@
+print("hello world")
+
+a=5 
+type(a)
+
+a=5
+b=6
+print(a+b)
+
+
+def is_prime(n):
+   if n in [2, 3]:
+       return True
+   if (n == 1) or (n % 2 == 0):
+       return False
+   r = 5
+   while r * r <= n:
+       if n % r == 0:
+           return False
+       r += 2
+   return True
+print(is_prime(78), is_prime(79))
